@@ -3,3 +3,5 @@ Ngày 2, Ngày 3: Kéo thả giao diện.
 Ngày 4: Code backend theo mô hình 3 lớp DTO, BUS, DAL.
 Ngày 5: Code các chức năng chính, kết hợp với BUS với GUI.
 Ngày 6, 7, 8: Làm các chức năng nâng cao.
+
+Ngày N: Làm thú ảo màn hình desktop.
